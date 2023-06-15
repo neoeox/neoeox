@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @neoeox
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Java, R, Python
+- 👋 Hi, I’m jon
+- 👀 I’m interested in Data Science, Data Analysis
+- 🌱 I’m currently using Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
